@@ -1,10 +1,10 @@
 import React from 'react';
-import ReatrMenu from './ReataurentMenu/RestrMenu';
+import Todo from './toDoFolder/Todo';
 
 function App() {
   return (
     <>
-      <ReatrMenu></ReatrMenu>
+      <Todo></Todo>
     </>
   );
 }
